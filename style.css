@@ -1,0 +1,19 @@
+input{
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    
+}
+header{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+body{
+    background-color: blueviolet;
+    text-align: center;
+}
+#res{
+    font-size: 30px;
+    margin-top: 10px;
+}
